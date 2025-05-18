@@ -13,7 +13,7 @@ A lightweight and visually appealing animated **CSS preloader** built using pure
 * Easy to integrate into any project
 
 ## 📸 Preview
-
+![Image](https://github.com/user-attachments/assets/0171e1e7-0786-4ae1-b703-82425ad50449) 
 
 
 ## 🚀 Live Demo
