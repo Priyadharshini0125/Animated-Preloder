@@ -18,7 +18,7 @@ A lightweight and visually appealing animated **CSS preloader** built using pure
 
 ## 🚀 Live Demo
 
-[Live Preview](#) <!-- Replace with GitHub Pages or any live deployment URL -->
+**Live Preview -->** (https://priyadharshini0125.github.io/Animated-Preloder/)
 
 ## 🧱 Technologies Used
 
